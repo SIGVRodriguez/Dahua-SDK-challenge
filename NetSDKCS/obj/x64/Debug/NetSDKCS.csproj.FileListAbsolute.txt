@@ -1,0 +1,12 @@
+C:\Users\vrodriguez\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.057.0000002.0.R.230816\Demos\AccessDemo2s\NetSDKCS\bin\x64\Debug\NetSDKCS.dll
+C:\Users\vrodriguez\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.057.0000002.0.R.230816\Demos\AccessDemo2s\NetSDKCS\bin\x64\Debug\NetSDKCS.pdb
+C:\Users\vrodriguez\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.057.0000002.0.R.230816\Demos\AccessDemo2s\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.AssemblyReference.cache
+C:\Users\vrodriguez\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.057.0000002.0.R.230816\Demos\AccessDemo2s\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+C:\Users\vrodriguez\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.057.0000002.0.R.230816\Demos\AccessDemo2s\NetSDKCS\obj\x64\Debug\NetSDKCS.dll
+C:\Users\vrodriguez\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.057.0000002.0.R.230816\Demos\AccessDemo2s\NetSDKCS\obj\x64\Debug\NetSDKCS.pdb
+C:\projects\dahua sdk challenge\NetSDKCS\bin\x64\Debug\NetSDKCS.dll
+C:\projects\dahua sdk challenge\NetSDKCS\bin\x64\Debug\NetSDKCS.pdb
+C:\projects\dahua sdk challenge\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.AssemblyReference.cache
+C:\projects\dahua sdk challenge\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+C:\projects\dahua sdk challenge\NetSDKCS\obj\x64\Debug\NetSDKCS.dll
+C:\projects\dahua sdk challenge\NetSDKCS\obj\x64\Debug\NetSDKCS.pdb
